@@ -15,20 +15,15 @@
           <p><i>Most of these challenges I completed via VM VirtualBox using Kali Linux</i></p>
           <img src="https://github.com/kmdc0512/Live-Project/blob/main/LPimages/kalilinux.png">
           <br>
-          <p><i>Most of these challenges I completed via VM VirtualBox using Kali Linux</i></p>
-          <img src="https://github.com/kmdc0512/Live-Project/blob/main/LPimages/kalilinux.png">
+          <p><i>Here I’m using a SQL injection attack to gain administrative access.</i></p>
+          <img src="https://github.com/kmdc0512/Live-Project/blob/main/LPimages/sqlinjection.png">
           <br>
-          <p><i>Most of these challenges I completed via VM VirtualBox using Kali Linux</i></p>
-          <img src="https://github.com/kmdc0512/Live-Project/blob/main/LPimages/kalilinux.png">
+          <p><i>I utilized  the Burp Suite repeater tool to perform a privilege escalation attack.</i></p>
+          <img src="https://github.com/kmdc0512/Live-Project/blob/main/LPimages/burpsuite.png">
           <br>
-          <p><i>Most of these challenges I completed via VM VirtualBox using Kali Linux</i></p>
-          <img src="https://github.com/kmdc0512/Live-Project/blob/main/LPimages/kalilinux.png">
+          <p><i>Analyzed traffic using Wireshark to find malicious executables</i></p>
+          <img src="https://github.com/kmdc0512/Live-Project/blob/main/LPimages/pcapExecutable.png">
           <br>
-          <p><i>Most of these challenges I completed via VM VirtualBox using Kali Linux</i></p>
-          <img src="https://github.com/kmdc0512/Live-Project/blob/main/LPimages/kalilinux.png">
-    
-           
-    
-
-     
+          <p><i>One of the incident reports I wrote after completing a challenge.</i></p>
+          <img src="https://github.com/kmdc0512/Live-Project/blob/main/LPimages/IncidentReport.png"> 
 </html>
