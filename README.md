@@ -11,7 +11,7 @@
             and defensive security challenges such as analyzing malware traffic, penetration testing, inspecting pcap files and finding vulnerabilities in applications. 
             Some of these challenges called for tools and techniques such as Wireshark, Burp Suite, SQL injections and privilege escalation attacks to name a few.</p>     
         
-        <img src="<https://github.com/kmdc0512/Live-Project/blob/main/LPimages/IncidentReport.png" alt="incident report">
+        ![Alt kali linux](Image "C:\Users\karen\Documents\GitHub\HTML_and_CSS\Basic_HTML_and_CSS\LPimages\kalilinux.png")
 
    
 </html>
